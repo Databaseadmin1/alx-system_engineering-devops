@@ -10,3 +10,4 @@ Delete the file betty
 Delete the directory my_first_directory that is in the /tmp directory.
 changes the working directory to the previous one
 lists all files 
+prints the type of the file named iamafile
