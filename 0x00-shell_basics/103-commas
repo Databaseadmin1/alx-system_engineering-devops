@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m .*/ -f -X -v ./..
+ls -m .*/  -X -f ./.. -v -x
