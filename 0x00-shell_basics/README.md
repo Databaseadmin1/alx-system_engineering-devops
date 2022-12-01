@@ -12,3 +12,4 @@ changes the working directory to the previous one
 lists all files 
 prints the type of the file named iamafile
 Create a symbolic link to /bin/ls
+hat copies all the HTML files
