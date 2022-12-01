@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m .*/  -X -f ./.. -v -x
+ls -av */ -f ./.. --format=WORD -x
