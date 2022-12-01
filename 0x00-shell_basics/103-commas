@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -av */ -f ./.. --format=WORD -x
+ls -mapv
